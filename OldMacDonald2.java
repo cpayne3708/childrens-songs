@@ -3,9 +3,12 @@
  *
  * Version 2 - singIt() method eliminates duplicate code and make it easier to add more animals.
  * 
- * @author Jon Cooper
- * @version August 18, 2016 (v0)
+ * I guess this is all I have to do.
+ * 
+ * @author chris payne
+ * @version August 22, 2018 (v0)
  */
+
 
 
 public class OldMacDonald2 
